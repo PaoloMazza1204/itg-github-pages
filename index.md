@@ -1,5 +1,6 @@
 ---
 title: Introduction to Github - Github Pages
+date: 2022-09-08
 ---
 
 # Lorem ipsum
